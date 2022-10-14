@@ -6,7 +6,7 @@ This is a simple project where you can search like google.
 
 • Tailwind CSS
 
-• Web search API
+• Web Search API
 
 
 ## Live version
