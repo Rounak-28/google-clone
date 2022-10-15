@@ -11,6 +11,4 @@ This is a simple project where you can search like google.
 
 ## Live version
 
-https://google-clone-l7sn.vercel.app/
-
-P.S - I don't know why this site is showing warning :(
+https://rounak-search.vercel.app/
